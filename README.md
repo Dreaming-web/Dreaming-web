@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dreaming-web
-- 👀 I’m interested in sports
+- 👀 I’m interested in sports and game creating
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on "challenging cup" 
 - 📫 How to reach me email for 1246768688@qq.com
